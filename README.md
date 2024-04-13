@@ -1,0 +1,1 @@
+Detecting edges in images
